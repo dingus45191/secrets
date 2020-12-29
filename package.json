@@ -1,0 +1,10 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "scripts": {
+    "encrypt": "nodemon secret.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
