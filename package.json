@@ -1,10 +1,17 @@
 {
-  "name": "secrets",
-  "version": "1.0.0",
+  "name": "secure-it",
+  "version": "1.2.4",
   "scripts": {
-    "encrypt": "nodemon secret.js"
+    "secure": "nodemon secret.js"
   },
   "dependencies": {
-    "nodemon": "^2.0.6"
-  }
+    "nodemon": "^2.0.6",
+    "rot13-cipher": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dingus45191/secrets"
+  },
+  "author": "Mubashir Hasan",
+  "license": "ISC"
 }
