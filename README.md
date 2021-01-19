@@ -12,6 +12,5 @@ e.g
 Secure('Whatever')
 
 
-You can access the secured text/string by calling 'secured' variable.
+You can access the secured text/string by calling  Secure.secured
 
-It will automatically console your secured text/string
